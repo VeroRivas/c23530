@@ -1,2 +1,6 @@
 Agrero notas
 Desde la pc
+<<<<<<< HEAD
+=======
+AGREGO DESDE LA WEB....
+>>>>>>> 7dc2fbead498927116ad180d242600b0fac2a99a
